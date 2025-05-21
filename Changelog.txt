@@ -1,0 +1,260 @@
+v7.1.1
+
+- Fixed the AI issue of Black Ops, which didn't let them catch BMR-500.
+- Fixed the pick-up sound of SCP-714.
+- The skybox reverted back to its "HD" version from HLRC v5.0.
+- Changed the walking sound of MTM 8.
+- New texture for Gonome's head (thanks to JRER from Gamebanana).
+- Added the transparency for Apache glass.
+
+========================================================================================================================================================================================================
+
+v7.1
+
+- New intro map.
+- Changed SCP-1162's chamber due to graphic inconsistencies.
+- Fixed the position of HEV's armor bar.
+- Added a separate icons for walking and running.
+- Fixed G-Man's scale.
+- Fixed the disappearing of MTM 8 (the loader) after intro.
+- Removed the monster from "room2testroom" due to its AI issues.
+- Removed the Keplar Zombie.
+- Removed the "monster outputs" from SCP-914.
+- Changed Gargantua's model (reverted back to its old version with new texture).
+- Fixed the position of eye sprites for Vortigaunt and Gargantua.
+- Fixed an issue which causes HEV Suit to be found in SCP-1162.
+- New HID Turret model (from Gunman Chronicles mod).
+- New Apache model (with minor improves).
+- New Gonzales' model.
+- New gates and keycards textures.
+- Improved HEV Suit and helmet models.
+- Added screenshot key (F1 by default).
+- Added switching between new console design and "classic" one (from the early versions of SCP: CB).
+- New startup video.
+
+========================================================================================================================================================================================================
+
+v7.0
+
+- Ported on SCP: CB v1.3.11. (Note: the source code has been rewritten due to the big difference with v1.3.7, so some additions from previous HL:RC versions have been cut.)
+- New models for BMR-500 (SCP-173), HEV Subjects, "Otis" guard, Metrocops (from SCP-1123 event) and Black Ops.
+- The vest changed to HEV Suit + removed PCV model and some other unused items.
+- The voice lines of HECU Marines (except for endings) reverted back to Half-Life ones + rechanged announcements for the intercom.
+- New texture for locking devices.
+- Rechanged some outputs from SCP-914.
+- The number of slots in the inventory has been increased from 10 to 15.
+- Added new sounds for some items.
+
+With some help from Mleczyk76 (thanks :3):
+
+- SCP-1499-1 specimens replaced as Antlions.
+- (Finally!) Fixed the road in Gate A and Gate B surfaces (it uses a new texture instead of standard "concretefloor").
+- The "Barney" guard model has been updated in accordance with new animations.
+
+New additions from Ultimate Edition and more:
+
+- The HEV Suit now has an armor scale, which can be restored by using HEV Batteries (based both on the "kevlar" bar from NTF Mod and SCP-1033-RU).
+- New & improved models for the containment chambers of SCP-008, SCP-009, SCP-409, SCP-457 and SCP-106.
+- Added a "corpse-with-radio" event in "room4info" (with a special easter egg).
+- Added the loader (uses the code of a truck from v5.5) in the intro room.
+- New monster in "room2testroom" (based on SCP-682 from Redbull.Ivan's "Story of Site" mod).
+
+========================================================================================================================================================================================================
+
+v6.7
+
+Some additions from SCP: CB v1.3.10 build (thanks to Jabka):
+
+- New model and sounds for elevator doors.
+- Added the "missing" containment door inside of SCP-372's chamber.
+- Added new random generation code for maintenance tunnels.
+
+Other:
+
+- Fixed the alarm sound in SCP-009's chamber.
+- Optimized HID Turret textures.
+- New textures for DD-7382 crystal.
+
+========================================================================================================================================================================================================
+
+v6.6
+
+- Meet the new enemies - Black Ops Assassins (AI based on MTF Eta-10 from Ultimate Edition).
+- Added SCP-009's chamber (as an acid waste room).
+- Optimised the textures of all NPCs, some items and AH-64.
+- Removed companion bots.
+- Fixed the scale of Kingpin, Pit Drone and Otis.
+- New models of briefcase (SCP-513), Gargantua, Controller and Sentry Turret.
+- New loading screen.
+- Two new achievements.
+- MTF (HECU and Black Ops) are able to close SCP-173's chamber after "re-containing" the robot.
+- Decreased the speed of Gargantua and Alien Grunt.
+- Added "camera shaking" when Gargantua walks.
+- Re-made some NPC voices (both in vanilla and russifier).
+- Removed updater code.
+
+========================================================================================================================================================================================================
+
+v6.5.5
+
+- SCP-035 replaced as Zombie HEV Subject.
+- New model of binoculars.
+
+========================================================================================================================================================================================================
+
+v6.5
+
+- Added SCP-409 and its chamber.
+- Added binoculars.
+- Added new variation of SCP-049-2 - zombie scientist (he can be found in SCP-049's chamber instead of second zombie guard).
+- Removed "room2vent" room due to bug.
+- Added more new items' outputs for SCP-914:
+
+  1. HEV Suit / Vest: Rough - Electronical components;
+  2. Antidote Bottle (SCP-500) / Rad Bottle (SCP-420-J): 1:1 - Syringe
+  3. Very Fine Syringe (you know, the original one was illogical): Rough - nothing, Coarse - First-Aid Kit, 1:1 - Blue First-Aid Kit, Fine/Very Fine - Strange Bottle (instead of SCP-008-1)
+
+========================================================================================================================================================================================================
+
+v6.4.5
+
+- Added new items' outputs for SCP-914:
+
+  1. HEV Suit: 1:1 - Vest, Coarse/Rough - HEV Battery, Fine - HEV with helmet (similar to SCP-008 hazmat suit), Very Fine - Upgraded HEV with helmet (with infinite stamina);
+  2. Vest: 1:1 - HEV Suit, Coarse/Rough - HEV Battery;
+  3. Gas Mask: 1:1 - HECU Gas Mask;
+  4. HECU Gas Mask: 1:1 - Gas Mask, Fine/Very Fine - Upgraded HECU Gas Mask (similar to red night vision goggles, with infinite stamina);
+  5. Antidote Bottle (SCP-500): 1:1 - HEV Battery, Fine - Rad Bottle (SCP-420-J), Very Fine - Adrenaline Bottle
+  6. Tau Cannon/Displacer Gun (SCP-1499): Coarse/Rough - U-235
+  7. Beretta M9 Pistol: Coarse/Rough - Ammo for the pistol
+
+- Minor fixes for Russian Translation Mod.
+
+========================================================================================================================================================================================================
+
+v.6.4
+
+- Removed the ability of companions to move (because it lets the other D-Class-based NPCs move too).
+- Added an HEV suit (similar to the vest).
+- C-492 (SCP-173) changed to BMR-500 Robot.
+- Added the Tau Cannon (as an item and output from SCP-914 for SCP-1499).
+- Added the crowbar and Beretta pistol (as items).
+- New achievements.
+- New loading screens.
+- New documents.
+- Added the player's badge.
+- New icons of walking/sprinting and crouching.
+- Added the weapon supply.
+- Added the Kingpin (SCP-457) and his containment chamber.
+- Added the vent room and a new event in it.
+- MTF now can kill SCP-008-1 (Zombie Soldier).
+- Returned "halloween" command.
+- Removed the cell guard and Gate B guard that killed the player.
+- Added an easter egg companion.
+- Added 9 new companion characters: Gordon Freeman, Gina Cross, Barney Calhoun, Adrian Shephard, Cooper, Walter, G-Man and Zombie.
+- New model of Combine Metrocop (now he finally has a pistol).
+- Added new zombie in SCP-008's chamber.
+
+========================================================================================================================================================================================================
+
+v.6.3.5.2
+
+- The scientists (not included the black scientist) and D-Class can be your companions now (inspired by "Ikobot" from Project Resurrection Mod).
+- New Apache model.
+- Changed the monitor in SCP-205's chamber.
+
+========================================================================================================================================================================================================
+
+v.6.3.5.1
+
+- Removed the ability of Gonzales to spawn by console.
+- Removed all unused textures.
+- Minor improves.
+
+========================================================================================================================================================================================================
+
+v6.3.5
+
+- New models for Scientists, Janitors and D-Class.
+- New gasmask model.
+- New syringe model.
+- New keycards model.
+- Added an old navigator model.
+
+========================================================================================================================================================================================================
+
+v6.3.2
+
+- Added VOX easter egg for SCP-079.
+- Added extended version of SCP-049 Chase music.
+- Changed the hazmat model.
+- Changed the Nazi leaflet.
+- Female Scientist changed to Otis the Guard.
+
+========================================================================================================================================================================================================
+
+v6.3.1 (C-492 Mod)
+
+- SCP-173 rechanged to C-492.
+- Rechanged some sounds and textures.
+
+========================================================================================================================================================================================================
+
+v6.3
+
+- Improved the easter egg note in Maynard's office.
+- Fully removed bugged "bone manipulating" of guards.
+- Fixed game crash in SCP-1162's chamber.
+- Changed SCP-049's Theme.
+
+========================================================================================================================================================================================================
+
+v6.2.1
+
+- Improved the paths to the new medkit models.
+- SCP-173 "killing" sounds is now "stronger".
+- New "slash" sounds.
+
+========================================================================================================================================================================================================
+
+v6.2
+
+- Updated to SCP: CB v1.3.7.
+- Rechanged/improved some sounds and textures.
+- Added new models for the Zombies.
+- Added new exclusive models and textures for some items.
+- Some NPCs are now a bit smaller/bigger in accordance with their "real" sizes.
+- Removed MTF's "bone manipulation" lines that caused game's crash (thanks to PXLSHN).
+- Rechanged Pocket Dimension Ambience, SCP-205 and SCP-914 Themes.
+- Changed the shooting speed of guards (now it sounds more realistic).
+- Changed the AAText fonts (inspired by MarphyBlack's "Half-Life Fact Files" videos).
+- New easter eggs.
+
+========================================================================================================================================================================================================
+
+v6.1
+
+- Fixed the walking animations of Shock Troopers (SCP-966).
+- Some fixes for the animation of Bullsquids (SCP-939).
+- Minor fixes for in-game texts.
+
+========================================================================================================================================================================================================
+
+v6.0
+
+- Ported to v1.3.6.
+- Removed auto-updater (the mod may not work normally with further versions/patches of the game).
+- Improved game's crashing after teleporting to Gate A (thanks to PXLSHN).
+- Rechanged some documents.
+- New skins for keycards.
+- Added 4 new loading screens + new loading screen for SCP-173.
+- Re-added and improved the Gate A/B skybox from the v0.8.2 port (first public version of HL: RC).
+- Returned the HEV Suit's sounds from Half-Life and HECU Grunts' voices from Black Mesa: Source.
+- New scripted sounds for the PA System.
+- Rechanged the models of Vortigaunt and Alien Grunt.
+- Improved the Alien Controller's textures.
+- Rechanged some animations for the Alien Grunt.
+- Rechanged/improved the walking animation of MTF (HECU).
+- Removed bugged "head rotating" animation of guards.
+- Removed "halloween" command.
+- More easter eggs!

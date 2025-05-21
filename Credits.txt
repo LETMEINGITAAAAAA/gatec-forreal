@@ -1,0 +1,84 @@
+
+*HALF-LIFE: RESONANCE CASCADE v7.1
+
+		This version is a re-made port of the original Half-Life mod
+		for SCP: Containment Breach by Half-Life: Resonance Cascade Development Group:
+		https://www.moddb.com/company/half-life-resonance-cascade-development-group
+
+		The mod is based on Half-Life game series by Valve Corporation and Gearbox Software:
+		https://www.half-life.com/
+
+		The source code is licensed under Creative Commons Attribution-ShareAlike 3.0 License.
+		http://creativecommons.org/licenses/by-sa/3.0/
+
+*Mod developers
+
+		Dmitry Sazanov ("Dmitriy-Bars")
+		Nikita Sidorov ("Jabka")
+
+*Helpers
+
+		Vladislav Borisevich ("Vane Brain")
+		Shaun Gaylard ("ENDSHN")
+		David Mleczko ("Mleczyk76")
+		Ivan Mikhailov ("Redbull.Ivan")
+
+*Special thanks
+		
+		Chandler Hummingbird ("CLgaming")
+		Caleb Yu ("Omniary")
+		NibGames
+		JELlegendz
+		ItZoToM
+		Nepheron
+		Alexander Deshko ("CmElektrik")
+		Rustam Aliev ("Necros")
+		Evgeny Dneprov ("EugeneDragonPlay")
+		Battleforge
+
+*Other credits
+
+		Valve Corporation
+		Gearbox Software
+		Crowbar Collective
+		MarphitimusBlackimus
+		Team Classic
+		MrGnang
+		Daymare-TR
+		LonelySpaceBiker
+		Mathew Velasquez
+		NOVA
+		Ogdred
+		Resfan
+		Spockjedi
+		Sproily
+		Super1Hawk
+
+*Sources
+
+		Half-Life
+		Half-Life: Opposing Force
+		Half-Life: Blue Shift
+		Black Mesa
+		Half-Life 2
+		Half-Life 2: Classic
+		Half-Life: Echoes
+		Half-Life: Deathmatch Classic
+		SCP: Containment Breach - Ultimate Edition
+
+*Used programs
+
+		IDEal
+		Fragmotion
+		GIMP 2
+		MS Paint
+		Audacity
+
+/
+	Thanks to all people who supported Half-Life Resonance Cascade since its first release.
+	We hope you enjoyed a lot while playing it.
+
+	And thank you, Chandler, for giving birth of this awesome and great mod back in 2013.
+	Your brainchild was the best gift for us... as well as NTF Mod and Ultimate Edition.
+
+	- Resonance Breach Team
