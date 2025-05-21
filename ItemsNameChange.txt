@@ -1,0 +1,209 @@
+// Change names of some SCP: CB items to HL: RC ones
+// Files: Items.bb, Main.bb, UpdateEvents.bb, MapSystem.bb
+
+	Case "Some SCP-420-J"		// item's old name (case-sensitive)
+		Return "Rad Bottle"	// item's new name
+
+	Case "Key Card Omni"
+		Return "Administration Group Keycard"
+
+	Case "SCP-860"
+		Return "Prototype Micro-Reactor"
+
+	Case "Document SCP-079"
+		Return "Announcement System Notice"
+
+	Case "Document SCP-895"
+		Return "Lambda Reactor #1386 Protocol"
+
+	Case "Document SCP-860"
+		Return "Xen Survey Method #11"
+
+	Case "Document SCP-860-1"
+		Return "'What is Xen?'"
+
+	Case "SCP-093 Recovered Materials"
+		Return "Xenotherium Tentaculus Document"
+
+	Case "Document SCP-106"
+		Return "Xenotherium Subservilia Document"
+
+	Case "Dr. Allok's Note"
+		Return "Dr. Thompson's Note"
+
+	Case "Recall Protocol RP-106-N"
+		Return "Teleport Interference Protocol"
+
+	Case "Document SCP-682"
+		Return "Xenotaur Gargantua Document"
+
+	Case "Document SCP-173"
+		Return "BMR-500 Document"
+
+	Case "Document SCP-372"
+		Return "Xenocephmacro Imperium Document"
+
+	Case "Document SCP-049"
+		Return "Note from CJ #2"
+
+	Case "Document SCP-096"
+		Return "Xenotherium Myrmex Document"
+
+	Case "Document SCP-008"
+		Return "Keplar Virus Document"
+
+	Case "Document SCP-012"
+		Return "DD-7382 Document"
+
+	Case "Document SCP-500"
+		Return "Power-Up Bottles Description"
+
+	Case "Document SCP-714"
+		Return "Regarding Failed HEV Upgrades"
+
+	Case "Document SCP-513"
+		Return "Foreboding Note"
+
+	Case "Document SCP-035"
+		Return "Xenocephalo Brachymus Document"
+
+	Case "SCP-035 Addendum"
+		Return "Cleanup Procedures"
+
+	Case "Document SCP-939"
+		Return "Gastropolypus Toxophlegmata Document"
+
+	Case "Document SCP-966"
+		Return "Shock Troopers Document"
+
+	Case "Document SCP-970"
+		Return "Weird Letter"
+
+	Case "Document SCP-1048"
+		Return "Chumtoads Document"
+
+	Case "Document SCP-1123"
+		Return "Note from CJ #1"
+
+	Case "Document SCP-1162"
+		Return "Office Maintenance Schedule"
+
+	Case "Document SCP-1499"
+		Return "Displacer Cannon Document"
+
+	Case "Incident Report SCP-1048-A"
+		Return "Xenotherium Monopscelida Document"
+
+	Case "Journal Page"
+		Return "Note to Dr. Kleiner"
+
+	Case "Class D Orientation Leaflet"
+		Return "Assignment Sheet"
+
+	Case "Note from Daniel"
+		Return "Note from Dr. Keller"
+
+	Case "Sticky Note"
+		Return "Note from the Administrator"
+
+	Case "Mobile Task Forces"
+		Return "Military Units"
+
+	Case "Object Classes"
+		Return "Threat Levels"
+
+	Case "Document"
+		Return "GG-3883 Memorandum"
+
+	Case "Addendum: 5/14 Test Log"
+		Return "Non-Relay Teleport Protocol"
+
+	Case "Incident Report SCP-106-0204"
+		Return "Emergency Report"
+
+	Case "Ballistic Vest"
+		Return "HEV Suit"
+
+	Case "Heavy Ballistic Vest"
+		Return "Heavy HEV Suit"
+
+	Case "Bulky Ballistic Vest"
+		Return "Bulky HEV Suit"
+
+	Case "SCP-500-01"
+		Return "Antidote Bottle"
+
+	Case "First Aid Kit"
+		Return "Medical Kit"
+
+	Case "Small First Aid Kit"
+		Return "Small Medical Kit"
+
+	Case "Blue First Aid Kit"
+		Return "Modified Medical Kit"
+
+	Case "Strange Bottle"
+		Return "Defective Medical Kit"
+
+	Case "Gas Mask"
+		Return "HEV Helmet"
+
+	Case "Heavy Gas Mask"
+		Return "Heavy HEV Helmet"
+
+	Case "Hazmat Suit"
+		Return "Cleansuit"
+
+	Case "SCP-148 Ingot"
+		Return "Xenium Metal"
+
+	Case "Metal Panel"
+		Return "Xenium Metal Panel"
+
+	Case "Cigarette", "cigarette"
+		Return "HEV Battery", "hevbat"
+
+	Case "Joint"
+		Return "Adrenaline Bottle"
+
+	Case "Smelly Joint"
+		Return "Super Adrenaline Bottle"
+
+	Case "SCP-714"
+		Return "HEV Upgrade: Memetic Shield"
+
+	Case "SCP-1025"
+		Return "HEV Upgrade: Health Regulator"
+
+	Case "SCP-513"
+		Return "Briefcase"
+
+	Case "SCP-1123"
+		Return "Small Crystal"
+
+	Case "SCP-427"
+		Return "Mobile Recharger"
+
+	Case "SCP-1499"
+		Return "Displacer Gun"
+
+	Case "Emily Ross' Badge"
+		Return "Azian Vance's Badge"
+
+	Case "Disciplinary Hearing DH-S-4137-17092"
+		Return "Poster"
+
+	Case "Movie Ticket"
+		Return "Floppy Disk"
+
+	Case "Document SCP-457"
+		Return "Sactildiae Nefariousium Document"
+
+	Case "Document SCP-427"
+		Return "Mobile Recharger Document"
+
+	Case "Document SCP-409"
+		Return "XF-4090 Document"
+
+	Case "Upgraded pill"
+		Return "Upgraded Antidote"
